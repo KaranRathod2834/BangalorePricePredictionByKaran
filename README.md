@@ -111,10 +111,3 @@ The dataset used in this project is from Kaggle which is the [Bengaluru House Pr
 
 ---
 
-# License
-
-[MIT License](https://github.com/AnishLohiya/Real-Estate-Price-Prediction/blob/master/LICENSE)
-
-# Contributing Guidlines
-
-Please refer to [CODE_OF_CONDUCT.md](https://github.com/AnishLohiya/Real-Estate-Price-Prediction/blob/master/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](https://github.com/AnishLohiya/Real-Estate-Price-Prediction/blob/master/CONTRIBUTING.md) before contributing.
